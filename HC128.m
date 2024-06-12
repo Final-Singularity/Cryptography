@@ -1,4 +1,4 @@
-%% Defining the parameters
+%% Define the parameters
 
 %K = '01001010111101111000';
 %Kdec = bin2dec(K);
